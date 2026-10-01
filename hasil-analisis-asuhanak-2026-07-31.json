@@ -1,0 +1,1136 @@
+{
+  "judul": "Anatomi 2.089 Nama Bayi Indonesia",
+  "penerbit": "Asuh Anak (asuhanak.com)",
+  "tanggal_pengambilan_data": "2026-07-31",
+  "sumber_data": "website/data/baby-names.json (Kamus Nama Bayi Asuh Anak)",
+  "lisensi": "CC BY 4.0",
+  "total_titik_data": 2089,
+  "mutu_data": {
+    "total_baris": 2089,
+    "slug_duplikat": 0,
+    "nama_duplikat_tanpa_kapital": 0,
+    "asal_kosong": 0,
+    "arti_kosong": 0,
+    "tema_kosong": 0
+  },
+  "komposisi_gender": [
+    {
+      "gender": "laki-laki",
+      "jumlah": 1030,
+      "persen": 49.3
+    },
+    {
+      "gender": "perempuan",
+      "jumlah": 1008,
+      "persen": 48.3
+    },
+    {
+      "gender": "unisex",
+      "jumlah": 51,
+      "persen": 2.4
+    }
+  ],
+  "asal_bahasa": [
+    {
+      "asal": "Arab",
+      "jumlah": 814,
+      "persen": 39,
+      "laki_laki": 393,
+      "perempuan": 421,
+      "unisex": 0,
+      "rerata_huruf": 11.04,
+      "rerata_suku_kata": 4.64,
+      "rerata_kata": 1.83,
+      "persen_satu_kata": 43.2,
+      "persen_tiga_kata": 26.4,
+      "persen_punya_varian": 19.7
+    },
+    {
+      "asal": "Indonesia",
+      "jumlah": 397,
+      "persen": 19,
+      "laki_laki": 183,
+      "perempuan": 192,
+      "unisex": 22,
+      "rerata_huruf": 11.31,
+      "rerata_suku_kata": 5,
+      "rerata_kata": 1.8,
+      "persen_satu_kata": 19.6,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 1.5
+    },
+    {
+      "asal": "Sanskerta",
+      "jumlah": 330,
+      "persen": 15.8,
+      "laki_laki": 174,
+      "perempuan": 138,
+      "unisex": 18,
+      "rerata_huruf": 10.19,
+      "rerata_suku_kata": 4.51,
+      "rerata_kata": 1.61,
+      "persen_satu_kata": 38.8,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 11.8
+    },
+    {
+      "asal": "Jawa",
+      "jumlah": 298,
+      "persen": 14.3,
+      "laki_laki": 150,
+      "perempuan": 147,
+      "unisex": 1,
+      "rerata_huruf": 10.55,
+      "rerata_suku_kata": 4.44,
+      "rerata_kata": 1.77,
+      "persen_satu_kata": 22.8,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 8.7
+    },
+    {
+      "asal": "Barat",
+      "jumlah": 126,
+      "persen": 6,
+      "laki_laki": 66,
+      "perempuan": 60,
+      "unisex": 0,
+      "rerata_huruf": 13.7,
+      "rerata_suku_kata": 6.25,
+      "rerata_kata": 1.99,
+      "persen_satu_kata": 0.8,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 0.8
+    },
+    {
+      "asal": "Ibrani",
+      "jumlah": 44,
+      "persen": 2.1,
+      "laki_laki": 27,
+      "perempuan": 17,
+      "unisex": 0,
+      "rerata_huruf": 5.98,
+      "rerata_suku_kata": 2.86,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 84.1
+    },
+    {
+      "asal": "Latin",
+      "jumlah": 29,
+      "persen": 1.4,
+      "laki_laki": 14,
+      "perempuan": 15,
+      "unisex": 0,
+      "rerata_huruf": 6.76,
+      "rerata_suku_kata": 2.97,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 62.1
+    },
+    {
+      "asal": "Yunani",
+      "jumlah": 14,
+      "persen": 0.7,
+      "laki_laki": 8,
+      "perempuan": 6,
+      "unisex": 0,
+      "rerata_huruf": 7.21,
+      "rerata_suku_kata": 3.21,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 85.7
+    },
+    {
+      "asal": "Bali",
+      "jumlah": 12,
+      "persen": 0.6,
+      "laki_laki": 2,
+      "perempuan": 2,
+      "unisex": 8,
+      "rerata_huruf": 4.58,
+      "rerata_suku_kata": 1.92,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 0
+    },
+    {
+      "asal": "Jawa Kuno",
+      "jumlah": 5,
+      "persen": 0.2,
+      "laki_laki": 2,
+      "perempuan": 3,
+      "unisex": 0,
+      "rerata_huruf": 7,
+      "rerata_suku_kata": 2.8,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 0
+    },
+    {
+      "asal": "Sunda",
+      "jumlah": 5,
+      "persen": 0.2,
+      "laki_laki": 3,
+      "perempuan": 1,
+      "unisex": 1,
+      "rerata_huruf": 6.4,
+      "rerata_suku_kata": 2.8,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 20
+    },
+    {
+      "asal": "Islami",
+      "jumlah": 3,
+      "persen": 0.1,
+      "laki_laki": 3,
+      "perempuan": 0,
+      "unisex": 0,
+      "rerata_huruf": 6.33,
+      "rerata_suku_kata": 2.33,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 33.3
+    },
+    {
+      "asal": "Persia",
+      "jumlah": 3,
+      "persen": 0.1,
+      "laki_laki": 1,
+      "perempuan": 2,
+      "unisex": 0,
+      "rerata_huruf": 5.67,
+      "rerata_suku_kata": 2,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 66.7
+    },
+    {
+      "asal": "Aram",
+      "jumlah": 3,
+      "persen": 0.1,
+      "laki_laki": 1,
+      "perempuan": 2,
+      "unisex": 0,
+      "rerata_huruf": 5.33,
+      "rerata_suku_kata": 2.33,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 100
+    },
+    {
+      "asal": "Bugis",
+      "jumlah": 2,
+      "persen": 0.1,
+      "laki_laki": 1,
+      "perempuan": 0,
+      "unisex": 1,
+      "rerata_huruf": 4,
+      "rerata_suku_kata": 2,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 0
+    },
+    {
+      "asal": "Irlandia",
+      "jumlah": 2,
+      "persen": 0.1,
+      "laki_laki": 2,
+      "perempuan": 0,
+      "unisex": 0,
+      "rerata_huruf": 4.5,
+      "rerata_suku_kata": 1.5,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 0
+    },
+    {
+      "asal": "Inggris",
+      "jumlah": 1,
+      "persen": 0,
+      "laki_laki": 0,
+      "perempuan": 1,
+      "unisex": 0,
+      "rerata_huruf": 5,
+      "rerata_suku_kata": 2,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 100
+    },
+    {
+      "asal": "Rusia",
+      "jumlah": 1,
+      "persen": 0,
+      "laki_laki": 0,
+      "perempuan": 1,
+      "unisex": 0,
+      "rerata_huruf": 7,
+      "rerata_suku_kata": 3,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_tiga_kata": 0,
+      "persen_punya_varian": 0
+    }
+  ],
+  "panjang_nama_per_gender": [
+    {
+      "gender": "laki-laki",
+      "jumlah": 1030,
+      "rerata_huruf": 10.51,
+      "median_huruf": 11,
+      "rerata_suku_kata": 4.38,
+      "median_suku_kata": 5,
+      "modus_suku_kata": 5,
+      "rerata_kata": 1.72,
+      "persen_satu_kata": 36.4,
+      "persen_dua_kata": 54.9,
+      "persen_tiga_kata": 8.7
+    },
+    {
+      "gender": "perempuan",
+      "jumlah": 1008,
+      "rerata_huruf": 11.26,
+      "median_huruf": 12,
+      "rerata_suku_kata": 5.02,
+      "median_suku_kata": 5,
+      "modus_suku_kata": 6,
+      "rerata_kata": 1.8,
+      "persen_satu_kata": 32.2,
+      "persen_dua_kata": 55.4,
+      "persen_tiga_kata": 12.4
+    },
+    {
+      "gender": "unisex",
+      "jumlah": 51,
+      "rerata_huruf": 5.8,
+      "median_huruf": 6,
+      "rerata_suku_kata": 2.49,
+      "median_suku_kata": 2,
+      "modus_suku_kata": 2,
+      "rerata_kata": 1,
+      "persen_satu_kata": 100,
+      "persen_dua_kata": 0,
+      "persen_tiga_kata": 0
+    }
+  ],
+  "panjang_nama_satu_kata": [
+    {
+      "gender": "laki-laki",
+      "jumlah": 375,
+      "rerata_huruf": 5.99,
+      "median_huruf": 6,
+      "rerata_suku_kata": 2.46
+    },
+    {
+      "gender": "perempuan",
+      "jumlah": 325,
+      "rerata_huruf": 6.14,
+      "median_huruf": 6,
+      "rerata_suku_kata": 2.66
+    }
+  ],
+  "huruf_awal": [
+    {
+      "huruf": "A",
+      "jumlah": 322,
+      "persen": 15.4,
+      "laki_laki": 183,
+      "perempuan": 135
+    },
+    {
+      "huruf": "S",
+      "jumlah": 198,
+      "persen": 9.5,
+      "laki_laki": 95,
+      "perempuan": 95
+    },
+    {
+      "huruf": "K",
+      "jumlah": 152,
+      "persen": 7.3,
+      "laki_laki": 38,
+      "perempuan": 108
+    },
+    {
+      "huruf": "N",
+      "jumlah": 142,
+      "persen": 6.8,
+      "laki_laki": 42,
+      "perempuan": 97
+    },
+    {
+      "huruf": "B",
+      "jumlah": 137,
+      "persen": 6.6,
+      "laki_laki": 105,
+      "perempuan": 29
+    },
+    {
+      "huruf": "R",
+      "jumlah": 133,
+      "persen": 6.4,
+      "laki_laki": 54,
+      "perempuan": 78
+    },
+    {
+      "huruf": "M",
+      "jumlah": 107,
+      "persen": 5.1,
+      "laki_laki": 40,
+      "perempuan": 65
+    },
+    {
+      "huruf": "D",
+      "jumlah": 92,
+      "persen": 4.4,
+      "laki_laki": 63,
+      "perempuan": 27
+    },
+    {
+      "huruf": "F",
+      "jumlah": 90,
+      "persen": 4.3,
+      "laki_laki": 55,
+      "perempuan": 34
+    },
+    {
+      "huruf": "G",
+      "jumlah": 87,
+      "persen": 4.2,
+      "laki_laki": 43,
+      "perempuan": 41
+    },
+    {
+      "huruf": "C",
+      "jumlah": 85,
+      "persen": 4.1,
+      "laki_laki": 31,
+      "perempuan": 50
+    },
+    {
+      "huruf": "H",
+      "jumlah": 70,
+      "persen": 3.4,
+      "laki_laki": 33,
+      "perempuan": 36
+    },
+    {
+      "huruf": "P",
+      "jumlah": 68,
+      "persen": 3.3,
+      "laki_laki": 31,
+      "perempuan": 31
+    },
+    {
+      "huruf": "W",
+      "jumlah": 67,
+      "persen": 3.2,
+      "laki_laki": 34,
+      "perempuan": 30
+    },
+    {
+      "huruf": "I",
+      "jumlah": 65,
+      "persen": 3.1,
+      "laki_laki": 37,
+      "perempuan": 28
+    },
+    {
+      "huruf": "T",
+      "jumlah": 47,
+      "persen": 2.2,
+      "laki_laki": 19,
+      "perempuan": 27
+    },
+    {
+      "huruf": "Y",
+      "jumlah": 45,
+      "persen": 2.2,
+      "laki_laki": 33,
+      "perempuan": 12
+    },
+    {
+      "huruf": "Z",
+      "jumlah": 43,
+      "persen": 2.1,
+      "laki_laki": 26,
+      "perempuan": 17
+    },
+    {
+      "huruf": "E",
+      "jumlah": 41,
+      "persen": 2,
+      "laki_laki": 21,
+      "perempuan": 20
+    },
+    {
+      "huruf": "L",
+      "jumlah": 29,
+      "persen": 1.4,
+      "laki_laki": 5,
+      "perempuan": 22
+    },
+    {
+      "huruf": "J",
+      "jumlah": 26,
+      "persen": 1.2,
+      "laki_laki": 20,
+      "perempuan": 5
+    },
+    {
+      "huruf": "U",
+      "jumlah": 18,
+      "persen": 0.9,
+      "laki_laki": 14,
+      "perempuan": 4
+    },
+    {
+      "huruf": "V",
+      "jumlah": 10,
+      "persen": 0.5,
+      "laki_laki": 7,
+      "perempuan": 3
+    },
+    {
+      "huruf": "Q",
+      "jumlah": 9,
+      "persen": 0.4,
+      "laki_laki": 1,
+      "perempuan": 8
+    },
+    {
+      "huruf": "O",
+      "jumlah": 6,
+      "persen": 0.3,
+      "laki_laki": 0,
+      "perempuan": 6
+    },
+    {
+      "huruf": "X",
+      "jumlah": 0,
+      "persen": 0,
+      "laki_laki": 0,
+      "perempuan": 0
+    }
+  ],
+  "huruf_akhir_satu_kata": [
+    {
+      "gender": "laki-laki",
+      "jumlah": 375,
+      "persen_berakhir_vokal": 42.1,
+      "lima_teratas": [
+        {
+          "huruf": "a",
+          "jumlah": 95,
+          "persen": 25.3
+        },
+        {
+          "huruf": "n",
+          "jumlah": 55,
+          "persen": 14.7
+        },
+        {
+          "huruf": "i",
+          "jumlah": 31,
+          "persen": 8.3
+        },
+        {
+          "huruf": "o",
+          "jumlah": 26,
+          "persen": 6.9
+        },
+        {
+          "huruf": "s",
+          "jumlah": 25,
+          "persen": 6.7
+        }
+      ]
+    },
+    {
+      "gender": "perempuan",
+      "jumlah": 325,
+      "persen_berakhir_vokal": 63.7,
+      "lima_teratas": [
+        {
+          "huruf": "a",
+          "jumlah": 147,
+          "persen": 45.2
+        },
+        {
+          "huruf": "h",
+          "jumlah": 82,
+          "persen": 25.2
+        },
+        {
+          "huruf": "i",
+          "jumlah": 50,
+          "persen": 15.4
+        },
+        {
+          "huruf": "s",
+          "jumlah": 7,
+          "persen": 2.2
+        },
+        {
+          "huruf": "n",
+          "jumlah": 7,
+          "persen": 2.2
+        }
+      ]
+    }
+  ],
+  "makna_semua": [
+    {
+      "kata": "bunga",
+      "jumlah": 188,
+      "persen": 9
+    },
+    {
+      "kata": "suci",
+      "jumlah": 164,
+      "persen": 7.9
+    },
+    {
+      "kata": "cahaya",
+      "jumlah": 162,
+      "persen": 7.8
+    },
+    {
+      "kata": "mulia",
+      "jumlah": 137,
+      "persen": 6.6
+    },
+    {
+      "kata": "tuhan",
+      "jumlah": 106,
+      "persen": 5.1
+    },
+    {
+      "kata": "allah",
+      "jumlah": 95,
+      "persen": 4.5
+    },
+    {
+      "kata": "cerdas",
+      "jumlah": 91,
+      "persen": 4.4
+    },
+    {
+      "kata": "bulan",
+      "jumlah": 82,
+      "persen": 3.9
+    },
+    {
+      "kata": "indah",
+      "jumlah": 73,
+      "persen": 3.5
+    },
+    {
+      "kata": "bijaksana",
+      "jumlah": 70,
+      "persen": 3.4
+    },
+    {
+      "kata": "wanita",
+      "jumlah": 70,
+      "persen": 3.4
+    },
+    {
+      "kata": "kemenangan",
+      "jumlah": 69,
+      "persen": 3.3
+    },
+    {
+      "kata": "berharga",
+      "jumlah": 68,
+      "persen": 3.3
+    },
+    {
+      "kata": "gagah",
+      "jumlah": 65,
+      "persen": 3.1
+    },
+    {
+      "kata": "permata",
+      "jumlah": 65,
+      "persen": 3.1
+    },
+    {
+      "kata": "kemuliaan",
+      "jumlah": 64,
+      "persen": 3.1
+    },
+    {
+      "kata": "matahari",
+      "jumlah": 62,
+      "persen": 3
+    },
+    {
+      "kata": "anugerah",
+      "jumlah": 61,
+      "persen": 2.9
+    },
+    {
+      "kata": "setia",
+      "jumlah": 60,
+      "persen": 2.9
+    },
+    {
+      "kata": "lahir",
+      "jumlah": 60,
+      "persen": 2.9
+    }
+  ],
+  "makna_laki_laki": [
+    {
+      "kata": "tuhan",
+      "jumlah": 79,
+      "persen": 7.7
+    },
+    {
+      "kata": "gagah",
+      "jumlah": 65,
+      "persen": 6.3
+    },
+    {
+      "kata": "mulia",
+      "jumlah": 62,
+      "persen": 6
+    },
+    {
+      "kata": "setia",
+      "jumlah": 57,
+      "persen": 5.5
+    },
+    {
+      "kata": "kemenangan",
+      "jumlah": 55,
+      "persen": 5.3
+    },
+    {
+      "kata": "allah",
+      "jumlah": 54,
+      "persen": 5.2
+    },
+    {
+      "kata": "cahaya",
+      "jumlah": 54,
+      "persen": 5.2
+    },
+    {
+      "kata": "matahari",
+      "jumlah": 51,
+      "persen": 5
+    },
+    {
+      "kata": "bijaksana",
+      "jumlah": 48,
+      "persen": 4.7
+    },
+    {
+      "kata": "utama",
+      "jumlah": 48,
+      "persen": 4.7
+    },
+    {
+      "kata": "hamba",
+      "jumlah": 45,
+      "persen": 4.4
+    },
+    {
+      "kata": "anugerah",
+      "jumlah": 45,
+      "persen": 4.4
+    },
+    {
+      "kata": "putra",
+      "jumlah": 45,
+      "persen": 4.4
+    },
+    {
+      "kata": "maha",
+      "jumlah": 40,
+      "persen": 3.9
+    },
+    {
+      "kata": "kuat",
+      "jumlah": 40,
+      "persen": 3.9
+    }
+  ],
+  "makna_perempuan": [
+    {
+      "kata": "bunga",
+      "jumlah": 161,
+      "persen": 16
+    },
+    {
+      "kata": "suci",
+      "jumlah": 125,
+      "persen": 12.4
+    },
+    {
+      "kata": "cahaya",
+      "jumlah": 100,
+      "persen": 9.9
+    },
+    {
+      "kata": "mulia",
+      "jumlah": 75,
+      "persen": 7.4
+    },
+    {
+      "kata": "indah",
+      "jumlah": 71,
+      "persen": 7
+    },
+    {
+      "kata": "wanita",
+      "jumlah": 70,
+      "persen": 6.9
+    },
+    {
+      "kata": "permata",
+      "jumlah": 62,
+      "persen": 6.2
+    },
+    {
+      "kata": "kasih",
+      "jumlah": 56,
+      "persen": 5.6
+    },
+    {
+      "kata": "cerdas",
+      "jumlah": 55,
+      "persen": 5.5
+    },
+    {
+      "kata": "berharga",
+      "jumlah": 54,
+      "persen": 5.4
+    },
+    {
+      "kata": "gadis",
+      "jumlah": 50,
+      "persen": 5
+    },
+    {
+      "kata": "bulan",
+      "jumlah": 48,
+      "persen": 4.8
+    },
+    {
+      "kata": "mekar",
+      "jumlah": 45,
+      "persen": 4.5
+    },
+    {
+      "kata": "bercahaya",
+      "jumlah": 44,
+      "persen": 4.4
+    },
+    {
+      "kata": "dewi",
+      "jumlah": 42,
+      "persen": 4.2
+    }
+  ],
+  "kata_condong_laki_laki": [
+    {
+      "kata": "gagah",
+      "laki_laki": 65,
+      "persen_laki_laki": 6.3,
+      "perempuan": 0,
+      "persen_perempuan": 0,
+      "selisih_poin": 6.3
+    },
+    {
+      "kata": "setia",
+      "laki_laki": 57,
+      "persen_laki_laki": 5.5,
+      "perempuan": 3,
+      "persen_perempuan": 0.3,
+      "selisih_poin": 5.2
+    },
+    {
+      "kata": "tuhan",
+      "laki_laki": 79,
+      "persen_laki_laki": 7.7,
+      "perempuan": 27,
+      "persen_perempuan": 2.7,
+      "selisih_poin": 5
+    },
+    {
+      "kata": "hamba",
+      "laki_laki": 45,
+      "persen_laki_laki": 4.4,
+      "perempuan": 0,
+      "persen_perempuan": 0,
+      "selisih_poin": 4.4
+    },
+    {
+      "kata": "putra",
+      "laki_laki": 45,
+      "persen_laki_laki": 4.4,
+      "perempuan": 0,
+      "persen_perempuan": 0,
+      "selisih_poin": 4.4
+    },
+    {
+      "kata": "kemenangan",
+      "laki_laki": 55,
+      "persen_laki_laki": 5.3,
+      "perempuan": 14,
+      "persen_perempuan": 1.4,
+      "selisih_poin": 4
+    },
+    {
+      "kata": "matahari",
+      "laki_laki": 51,
+      "persen_laki_laki": 5,
+      "perempuan": 10,
+      "persen_perempuan": 1,
+      "selisih_poin": 4
+    },
+    {
+      "kata": "maha",
+      "laki_laki": 40,
+      "persen_laki_laki": 3.9,
+      "perempuan": 1,
+      "persen_perempuan": 0.1,
+      "selisih_poin": 3.8
+    },
+    {
+      "kata": "kuat",
+      "laki_laki": 40,
+      "persen_laki_laki": 3.9,
+      "perempuan": 2,
+      "persen_perempuan": 0.2,
+      "selisih_poin": 3.7
+    },
+    {
+      "kata": "utama",
+      "laki_laki": 48,
+      "persen_laki_laki": 4.7,
+      "perempuan": 10,
+      "persen_perempuan": 1,
+      "selisih_poin": 3.7
+    }
+  ],
+  "kata_condong_perempuan": [
+    {
+      "kata": "bunga",
+      "laki_laki": 26,
+      "persen_laki_laki": 2.5,
+      "perempuan": 161,
+      "persen_perempuan": 16,
+      "selisih_poin": -13.4
+    },
+    {
+      "kata": "suci",
+      "laki_laki": 36,
+      "persen_laki_laki": 3.5,
+      "perempuan": 125,
+      "persen_perempuan": 12.4,
+      "selisih_poin": -8.9
+    },
+    {
+      "kata": "indah",
+      "laki_laki": 0,
+      "persen_laki_laki": 0,
+      "perempuan": 71,
+      "persen_perempuan": 7,
+      "selisih_poin": -7
+    },
+    {
+      "kata": "wanita",
+      "laki_laki": 0,
+      "persen_laki_laki": 0,
+      "perempuan": 70,
+      "persen_perempuan": 6.9,
+      "selisih_poin": -6.9
+    },
+    {
+      "kata": "permata",
+      "laki_laki": 2,
+      "persen_laki_laki": 0.2,
+      "perempuan": 62,
+      "persen_perempuan": 6.2,
+      "selisih_poin": -6
+    },
+    {
+      "kata": "kasih",
+      "laki_laki": 2,
+      "persen_laki_laki": 0.2,
+      "perempuan": 56,
+      "persen_perempuan": 5.6,
+      "selisih_poin": -5.4
+    },
+    {
+      "kata": "gadis",
+      "laki_laki": 0,
+      "persen_laki_laki": 0,
+      "perempuan": 50,
+      "persen_perempuan": 5,
+      "selisih_poin": -5
+    },
+    {
+      "kata": "cahaya",
+      "laki_laki": 54,
+      "persen_laki_laki": 5.2,
+      "perempuan": 100,
+      "persen_perempuan": 9.9,
+      "selisih_poin": -4.7
+    },
+    {
+      "kata": "mekar",
+      "laki_laki": 0,
+      "persen_laki_laki": 0,
+      "perempuan": 45,
+      "persen_perempuan": 4.5,
+      "selisih_poin": -4.5
+    },
+    {
+      "kata": "dewi",
+      "laki_laki": 0,
+      "persen_laki_laki": 0,
+      "perempuan": 42,
+      "persen_perempuan": 4.2,
+      "selisih_poin": -4.2
+    }
+  ],
+  "tema": [
+    {
+      "tema": "islami",
+      "jumlah": 814,
+      "persen": 39
+    },
+    {
+      "tema": "modern",
+      "jumlah": 616,
+      "persen": 29.5
+    },
+    {
+      "tema": "rangkaian",
+      "jumlah": 430,
+      "persen": 20.6
+    },
+    {
+      "tema": "indonesia",
+      "jumlah": 399,
+      "persen": 19.1
+    },
+    {
+      "tema": "klasik",
+      "jumlah": 357,
+      "persen": 17.1
+    },
+    {
+      "tema": "sanskerta",
+      "jumlah": 325,
+      "persen": 15.6
+    },
+    {
+      "tema": "daerah",
+      "jumlah": 316,
+      "persen": 15.1
+    },
+    {
+      "tema": "jawa",
+      "jumlah": 298,
+      "persen": 14.3
+    },
+    {
+      "tema": "3-kata",
+      "jumlah": 215,
+      "persen": 10.3
+    },
+    {
+      "tema": "kristen",
+      "jumlah": 211,
+      "persen": 10.1
+    },
+    {
+      "tema": "barat",
+      "jumlah": 165,
+      "persen": 7.9
+    },
+    {
+      "tema": "populer",
+      "jumlah": 59,
+      "persen": 2.8
+    },
+    {
+      "tema": "alkitab",
+      "jumlah": 54,
+      "persen": 2.6
+    },
+    {
+      "tema": "bali",
+      "jumlah": 12,
+      "persen": 0.6
+    },
+    {
+      "tema": "sunda",
+      "jumlah": 5,
+      "persen": 0.2
+    }
+  ],
+  "varian_ejaan": {
+    "nama_punya_varian": 307,
+    "persen_punya_varian": 14.7,
+    "total_string_varian": 408,
+    "rerata_varian_pada_yang_punya": 1.33,
+    "varian_terbanyak": 3
+  },
+  "ekstrem": {
+    "terpanjang": [
+      {
+        "nama": "Raihan Saifullah Hidayatullah",
+        "huruf": 27
+      },
+      {
+        "nama": "Kaisan Ash-Shalih Hidayatullah",
+        "huruf": 27
+      },
+      {
+        "nama": "Faiza Khairunnisa Ramadhani",
+        "huruf": 25
+      }
+    ],
+    "terpendek": [
+      {
+        "nama": "Lea",
+        "huruf": 3
+      },
+      {
+        "nama": "Rut",
+        "huruf": 3
+      },
+      {
+        "nama": "Luh",
+        "huruf": 3
+      },
+      {
+        "nama": "Ayu",
+        "huruf": 3
+      },
+      {
+        "nama": "Sri",
+        "huruf": 3
+      }
+    ]
+  }
+}
